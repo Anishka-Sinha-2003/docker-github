@@ -55,3 +55,26 @@
 <br>
 <br>
 
+**Build pipeline run successfully :-**
+
+![alt text](./img/image9.png)
+
+<br>
+<br>
+
+
+![alt text](./img/image10.png)
+
+<br>
+<br>
+
+**Image got build and pushed in the docker hub as well :-**
+
+![alt text](./img/image11.png)
+
+<br>
+<br>
+
+**Pulling the docker image build from the docker hub :-**
+
+![alt text](./img/image12.png)
