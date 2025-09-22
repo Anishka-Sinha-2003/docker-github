@@ -1,4 +1,6 @@
 
+## Containerizing an application and automating the image build & push with GitHub Actions
+
 **Installed Docker Desktop in the local machine :-**
 
 ![alt text](./img/image2.png)
@@ -78,3 +80,5 @@
 **Pulling the docker image build from the docker hub :-**
 
 ![alt text](./img/image12.png)
+
+**Updated**
